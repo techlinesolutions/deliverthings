@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "40621175802",
+    "firebase_url": "https://mapsproject-63f26.firebaseio.com",
+    "project_id": "mapsproject-63f26",
+    "storage_bucket": "mapsproject-63f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40621175802:android:bbd78e222475ad2a",
+        "android_client_info": {
+          "package_name": "com.techlinemobile.mapapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40621175802-80uf7hc3tn9q39t31cr6f5kr91k06889.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPScealJpbJlgFQu5bMOnbK0QD0r07CIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
